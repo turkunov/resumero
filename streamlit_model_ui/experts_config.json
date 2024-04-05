@@ -1,0 +1,5 @@
+{
+    "аналитик": "./gemma-analytics-resumes-adapter",
+    "bi":"./gemma-analytics-resumes-adapter",
+    "менеджер по логистике":"./gemma-analytics-resumes-adapter"
+}
